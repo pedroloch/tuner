@@ -21,6 +21,8 @@
   "author": "Pedro Loch",
   "license": "MIT",
   "dependencies": {
+    "@tensorflow/tfjs-converter": "^3.2.0",
+    "@tensorflow/tfjs-core": "^3.2.0",
     "ml5": "^0.6.1"
   },
   "devDependencies": {
