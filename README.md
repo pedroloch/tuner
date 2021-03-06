@@ -5,7 +5,7 @@ A javascript library to create a chromatic tuner that uses the [ml5](https://ml5
 ### Instalation
 
 ```
-npm install @pedroloch/tuner
+npm install --save @pedroloch/tuner
 ```
 
 ### Usage
